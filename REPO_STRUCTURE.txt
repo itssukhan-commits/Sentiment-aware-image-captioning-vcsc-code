@@ -1,0 +1,18 @@
+project_root/
+├── manuscript_full_pipeline_refined.py
+├── requirements.txt
+├── README.md
+├── REPRODUCIBILITY_NOTE.md
+├── REPO_STRUCTURE.txt
+├── data/
+│   └── flickr30k/
+│       ├── results.csv
+│       ├── captions.txt
+│       └── flickr30k_images/
+│           ├── 1000092795.jpg
+│           ├── 10002456.jpg
+│           └── ...
+└── outputs/
+    ├── seed_42/
+    ├── seed_123/
+    └── ...
