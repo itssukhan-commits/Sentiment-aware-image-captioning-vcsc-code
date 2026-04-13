@@ -1,8 +1,9 @@
 # Sentiment-aware Image Captioning with Visually Consistent Sentiment Calibration (VCSC)
 
-This repository provides a **manuscript code** of the paper:
+This repository provides the **manuscript code** for the research work:
 
-**Sentiment-aware image captioning with visually consistent sentiment calibration**
+**Sentiment-aware Image Captioning with Visually Consistent Sentiment Calibration (VCSC)**  
+*Submitted to The Visual Computer (Springer Nature)*
 
 It is organized to mirror the paper's **unified 5-class pipeline**:
 - weak sentiment supervision with **TextBlob**
@@ -279,5 +280,27 @@ If `--multi-seed` is used, the repository also writes:
 > The repository provides a manuscript code of the proposed 5-class sentiment-aware image captioning pipeline, including Vision--GPT caption generation, multiple sentiment baselines, and post-hoc VCSC calibration. Exact numerical reproduction may vary with software versions, hardware, random seeds, and dataset preparation.
 
 ---
+## Code Availability
+
+- **GitHub Repository**:  
+  https://github.com/itssukhan-commits/Sentiment-aware-image-captioning-vcsc-code  
+
+- **DOI (Zenodo Archive)**:  
+  https://doi.org/10.5281/zenodo.19558277  
+
+---
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@software{Khan2026VCSC,
+  author = {Khan, Sajid Ullah},
+  title = {Manuscript Code: Sentiment-aware Image Captioning with Visually Consistent Sentiment Calibration (VCSC)},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19558277}
+}
 
 
