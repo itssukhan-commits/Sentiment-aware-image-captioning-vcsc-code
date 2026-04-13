@@ -1,8 +1,10 @@
 # Reproducibility Note
 
-This repository provides a **manuscript code** of the proposed method described in:
+This repository should be interpreted as **manuscript code**, intended to:
 
-**Sentiment-aware image captioning with visually consistent sentiment calibration**
+- facilitate verification of the proposed method  
+- support reproducible research practices  
+- enable further development and benchmarking in multimodal sentiment-aware image captioning 
 
 The implementation includes:
 - Vision--GPT caption generation
@@ -21,4 +23,16 @@ As with most machine-learning pipelines, exact reported values may vary due to:
 - dataset export format
 - training configuration
 
-Accordingly, this repository should be interpreted as a **manuscript code**.
+## Citation
+
+If this code is used, please cite:
+
+```bibtex
+@software{Khan2026VCSC,
+  author = {Khan, Sajid Ullah},
+  title = {Manuscript Code: Sentiment-aware Image Captioning with Visually Consistent Sentiment Calibration (VCSC)},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19558277}
+}
+
