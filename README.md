@@ -3,7 +3,6 @@
 This repository provides the **manuscript code** for the research work:
 
 **Sentiment-aware Image Captioning with Visually Consistent Sentiment Calibration (VCSC)**  
-*Submitted to The Visual Computer (Springer Nature)*
 
 It is organized to mirror the paper's **unified 5-class pipeline**:
 - weak sentiment supervision with **TextBlob**
